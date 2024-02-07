@@ -20,7 +20,7 @@ html {
   /*made multiple boxes to make the scafflold stand out- edit it while coding -SK*/
 
   .headerbox{
-    background-color: rgb(57, 181, 63);
+    background-color: rgb(101, 99, 99);
     color: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 20px;
@@ -33,7 +33,7 @@ html {
   
   /*for hero image*/
     .heroimagebox{
-    background-color: rgb(0, 183, 255);
+    background-color: rgb(78, 79, 79);
     color: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 20px;
@@ -45,7 +45,7 @@ html {
   }
 /*for offerbox*/
   .offerbox{
-    background-color: rgb(206, 211, 63);
+    background-color: rgb(72, 72, 69);
     color: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 20px;
@@ -58,7 +58,7 @@ html {
 
 /*for  item boxes*/
 .itembox{
-  background-color: rgb(22, 180, 192);
+  background-color: rgb(63, 65, 66);
   color: rgb(255, 255, 255);
   border-radius: 5px;
   padding: 20px;
@@ -73,7 +73,7 @@ html {
 
 /*for article box*/
 .articlebox{
-  background-color: rgb(89, 64, 203);
+  background-color: rgb(66, 65, 68);
     color: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 20px;
@@ -86,7 +86,7 @@ html {
 
 /*for footer element*/
 .footerbox{
-  background-color: rgb(57, 181, 63);
+  background-color: rgb(53, 56, 53);
   color: rgb(255, 255, 255);
   border-radius: 5px;
   padding: 20px;
@@ -99,7 +99,7 @@ html {
 
 /*CSS FOR SALE WEBPAGE*/
 .newlylaunched{
-  background-color: rgb(170, 78, 87);
+  background-color: rgb(68, 67, 67);
     color: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 20px;
@@ -110,7 +110,7 @@ html {
 }
 
 .saleitembox{
-  background-color: rgb(166, 73, 175);
+  background-color: rgb(61, 59, 61);
   color: rgb(255, 255, 255);
   border-radius: 5px;
   padding: 20px;
